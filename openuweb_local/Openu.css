@@ -1,0 +1,294 @@
+BODY
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Tahoma
+}
+TABLE
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Tahoma
+}
+TABLE.PageTitle_office1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #99ccff;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Office
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ccffff;
+    BORDER-BOTTOM-STYLE: double
+}
+free.text
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Tahoma
+}
+TABLE.SubTitle
+{
+    WIDTH: 100%
+}
+TD.Subtitle_Blocks
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: magenta
+}
+TD.Subtitle_Software
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: orange
+}
+TD.Subtitle_Builds
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    TEXT-TRANSFORM: uppercase;
+    FONT-FAMILY: monospace;
+    BACKGROUND-COLOR: #6766c8
+}
+TD.Subtitle_IT
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #6734fa
+}
+TD.Subtitle_Terms
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #00c01c
+}
+TD.Subtitle_Notes
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #3399ff;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Today
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #a27df7
+}
+TD.Subtitle_Technical
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #a27d00
+}
+TD.Subtitle_UserGuide
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BACKGROUND-COLOR: #c0a05a
+}
+TD.Subtitle_Business
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ffcc99;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Course
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #9999ff;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Course
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ccccff;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Student
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ff9933;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Student
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ffcc99;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Maman
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: yellow;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Maman
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: yellow;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Group
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #00cc00;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Group
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #50cc10;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Reading
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #00cc99;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Reading
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ccffcc;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Question
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ff66ff;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Question
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: #ff99ff;
+    BORDER-BOTTOM-STYLE: double
+}
+TABLE.PageTitle_Exam
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    MARGIN-BOTTOM: 15px;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: red;
+    BORDER-BOTTOM-STYLE: double
+}
+TD.Subtitle_Exam
+{
+    PADDING-LEFT: 5px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-TOP-STYLE: double;
+    FONT-FAMILY: Tahoma;
+    BORDER-RIGHT-STYLE: double;
+    BORDER-LEFT-STYLE: double;
+    BACKGROUND-COLOR: red;
+    BORDER-BOTTOM-STYLE: double
+}

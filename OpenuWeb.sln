@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{BDD4A1A1-7A1F-11D0-AC13-00A0C91E29D5}") = "nt-eyal/", "OpenuWeb.vip", "{03E3ED05-B31C-407F-B166-81AAD4806608}"
+	ProjectSection(SourceCodeControl) = preProject
+		SccProjectName = <FrontPage-based\u0020Locking>
+		SccAuxPath = 
+		SccLocalPath = .\\OpenuWeb_Local
+		WebServer = http://nt-eyal
+		WebName = /
+	EndProjectSection
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "Database", "OpenuWeb_Local\Database\Database.dbp", "{CABB470D-313C-4BAD-B711-27DCA5319996}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {03E3ED05-B31C-407F-B166-81AAD4806608}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {03E3ED05-B31C-407F-B166-81AAD4806608}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
