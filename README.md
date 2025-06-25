@@ -1,65 +1,89 @@
 # Open University Course Management System (2004)
 
-This repository documents a legacy academic project I developed in 2004 for the **Open University of Israel**, aimed at helping instructors manage all aspects of course administration and student assessment.
+This repository documents a legacy academic project I developed in **2004** for the **Open University of Israel**. It was designed to support my role as a **teaching coordinator**, offering a complete toolset to manage course materials, assessments, student performance, and learning analytics—long before the adoption of modern LMS platforms.
+
+---
 
 ## 🧠 Purpose
 
-At the time, I was a **teaching coordinator** for a university-level course, and there was no existing integrated solution to manage the growing complexity of:
-- Course materials
-- Student performance tracking
-- Assignment and exam question databases
-- Learning outcome analytics
+At the time, no system existed to centralize academic course management in a flexible, instructor-oriented way. This web-based tool aimed to:
 
-This project was created to **centralize and simplify** course-related activities under a single interface.
+- Organize and manage course content
+- Maintain a structured question and exam bank
+- Track student progress and grades
+- Analyze success rates across questions and topics
+- Link assessment items directly to learning materials
 
-## 🎯 Key Features
+---
 
-- 📚 **Learning Material Management**
-  - Organize and structure course units, lessons, and topics
-  - Map questions directly to their relevant learning materials
+## 🧩 Features
 
-- ❓ **Question Bank**
-  - Author and categorize questions for:
-    - Assignments
-    - Exams
-  - Tag questions by topic, difficulty, and source
+- 📚 **Course Content Management**
+  - Organize topics, units, and materials
+  - Link questions directly to relevant study content
+
+- ❓ **Assessment Authoring**
+  - Create and edit questions for assignments (MAMAN) and exams
   - Maintain model answers
+  - Tag questions by topic and type
 
-- 👥 **Student Management**
-  - Register students
-  - Record and view student grades per task
+- 👩‍🎓 **Student Tracking**
+  - Maintain student records
+  - Input and view student grades
+  - Track submission history
 
-- 📊 **Performance Analysis**
-  - Calculate student success rates per question
-  - Identify weak areas based on question-level statistics
-  - Generate insights to improve teaching materials
+- 📊 **Analytics**
+  - Calculate question-level success rates
+  - Identify problematic topics
+  - Inform future course revisions and focus areas
 
-- 📌 **Cross-Referencing System**
-  - Link each question directly to relevant learning content
-  - Improve transparency and pedagogical alignment
+- 📎 **Cross-Referencing**
+  - Each question is linked back to its source material
+  - Enhances pedagogical transparency and alignment
 
-## 🏗️ Technology Stack (2004-era)
+---
 
-> *Note: This system was developed in an era before modern frameworks and cloud solutions.*
+## 🛠️ Technology Stack (2004-era)
 
-- Backend: Likely PHP or ASP Classic (depending on your implementation)
-- Database: MySQL or Microsoft Access
-- Frontend: HTML, early CSS, minimal JavaScript
-- Hosting: Local university server
+This system reflects early 2000s intranet web development—built entirely without frameworks:
 
-## 🕰️ Historical Context
+### 🖥 Backend
+- **Classic ASP (Active Server Pages)** – Server-side scripting with embedded **VBScript**
+- **Inline SQL queries** for data operations
+- **MS SQL Server**
 
-This system was designed **before Moodle** became widely adopted. It served as a practical, tailored tool for local course management needs—filling a real gap in the academic tools available at the time.
+### 🌐 Frontend
+- **HTML 4.01** with dynamic table rendering
+- **CSS 2.0** (`Openu.css`) with Tahoma typography and color-coded sections (e.g., Exams, Students, Assignments)
+- **No JavaScript frameworks**
 
-It supported my work over multiple semesters and was instrumental in streamlining the preparation and analysis of both assignments and exams.
+### 🗄 Hosting Environment
+- Hosted on a **Windows server using IIS**
+- Entire application logic is in `.asp` pages
+- Deployed internally within the university or on faculty-hosted machines
+
+---
+
+## 🕰 Historical Context
+
+This system was developed and used before widespread adoption of Moodle or Canvas. It filled a very practical need and helped streamline real course operations over multiple semesters in a resource-constrained academic setting.
+
+While the code does not reflect modern development practices, it provides an honest and functional snapshot of early educational technology built entirely by a teaching coordinator, not a development team.
+
+---
 
 ## ⚠️ Disclaimer
 
-This project is no longer maintained and is provided **for historical reference only**. The code is not representative of modern software practices but stands as an example of early 2000s educational tech in a resource-limited environment.
+This codebase is not actively maintained and is provided for **historical reference and inspiration only**. It is monolithic, uses deprecated technologies, and is not suitable for production use without a full rewrite.
+
+---
 
 ## 📬 Contact
 
-If you're curious about educational technology in low-resource settings or have questions about course infrastructure in academia, feel free to reach out!
+Feel free to reach out if you're interested in:
+- Educational tech in low-resource settings
+- Legacy system modernization
+- LMS alternatives and open-source learning tools
 
 ---
 
